@@ -11,8 +11,8 @@ Short description of my repos
 2) Repo testing asm.org using TestNG. This is the standard, so here you go.
 3) Repo testing asm.org using GEB/SPOCK. Groovy based test architecture that (in my experience) handles Angular and React type apps the best.
 4) Repo testing asm.org using Cypress.io. I said I would never learn JavaScript. Never say never folks. This is so cool.
-5) Repo testing asm.org/api using TestNG and Rest Assured.
-6) Repo testing asm.org/api using Cucumber and Rest Assured.
+5) Repo testing datausa.io/api using TestNG and Rest Assured.
+6) Repo testing datausa.io/api using Cucumber and Rest Assured.
 
 <!---
 nemesissy/nemesissy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
