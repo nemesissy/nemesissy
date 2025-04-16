@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nemesissy
 - 👀 I’m interested in testing automation
 - 🌱 I've been automating tests since 2007
-- 🌱 I’m currently working on a Cypress.io repo to test a React app
+- 🌱 I’m currently working on a Playwright repo to test 2 React web apps
 - 💞️ I’m looking to collaborate on new automation technologies
 - 📫 How to reach me nemsissy@gmail.com
 
